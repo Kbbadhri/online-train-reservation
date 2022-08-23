@@ -1,0 +1,20 @@
+1 introduction: problem statement srs for a train reservation system
+  1.1 scope: to create a website to reserve the train tickets
+  1.2 purpose: to avoid standing in lines online ticket system is created
+  1.3 overview: a clean and simple website which can reserve the train tickets for every one
+  1.4 general: software requirement
+               host,domain and webserver required
+
+2 performance requirement: the website should be smooth with no bugs or lag
+
+3 design constraint: it should have basic colours and a simple ui
+  3.1 other non functional attributes 
+  3.2 security
+  3.3 reusability
+  3.4 reliability
+
+4 sustainability
+
+5 maintainability
+ 
+6 operational scenarios
